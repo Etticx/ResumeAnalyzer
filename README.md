@@ -3,15 +3,6 @@
 ## 🚀 Introduction  
 This project aims to help Computer Science (CS) students find the most suitable job roles based on the **skills** and **tools** they currently possess. It reads the user's resume, analyzes their skills using **Natural Language Processing (NLP)**, and matches them with the most relevant CS job titles.
 
-## 📋 Table of Contents
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [How It Works](#-how-it-works)
-- [Contribution](#-contribution)
-- [License](#-license)
-
 ## 🌟 Features
 - **Resume Upload**: Users upload their resume in PDF format.
 - **NLP-based Skill Extraction**: The project uses NLP to extract keywords like tools and skills from the resume.
