@@ -1,0 +1,12 @@
+﻿# 🛠 Linguist settings
+
+# ✅ Force correct language detection
+*.py   linguist-language=Python
+*.java linguist-language=Java
+
+# 🚫 Ignore placeholder files
+*.gitkeep linguist-detectable=false
+
+# 🚫 Ignore Markdown/docs from language stats
+*.md    linguist-detectable=false
+docs/*  linguist-detectable=false
